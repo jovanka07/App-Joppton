@@ -132,7 +132,7 @@
 				<i class="fa-sharp fa-solid fa-play"></i>
 			</div>
 
-			<p>See Joppton in Action</p>
+			<p>See Joppton in Actionn</p>
 		</figcaption>
 	</main>
 </body>
